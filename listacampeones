@@ -1,0 +1,40 @@
+#EXTM3U 
+#EXTVLCOPT:http-reconnect=true
+http://root:Ossobuco@79.116.13.61:8001/1:0:19:7853:41A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30900" tvg-logo="http://root:Ossobuco@79.116.13.61/picon/1_0_19_78B4_3EC_1_C00000_0_0_0.png" tvg-id="1:0:19:78B4:3EC:1:C00000:0:0:0:" tvg-name="LIGA DE CAMPEONES 1",LIGA DE CAMPEONES 1
+
+http://root:Ossobuco@79.116.13.61:8001/1:0:19:78B4:3EC:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="29909" tvg-logo="http://root:Ossobuco@79.116.13.61/picon/1_0_19_74D5_3F8_1_C00000_0_0_0.png" tvg-id="1:0:19:74D5:3F8:1:C00000:0:0:0:" tvg-name="LIGA DE CAMPEONES 2",LIGA DE CAMPEONES 2
+
+http://root:Ossobuco@79.116.13.61:8001/1:0:19:74D5:3F8:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="29915" tvg-logo="http://root:Ossobuco@79.116.13.61/picon/1_0_19_74DB_3F8_1_C00000_0_0_0.png" tvg-id="1:0:19:74DB:3F8:1:C00000:0:0:0:" tvg-name="LIGA DE CAMPEONES 3",LIGA DE CAMPEONES 3
+
+http://root:Ossobuco@79.116.13.61:8001/1:0:1:7606:408:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30680" tvg-logo="http://root:Ossobuco@79.116.13.61/picon/1_0_1_77D8_40A_1_C00000_0_0_0.png" tvg-id="1:0:1:77D8:40A:1:C00000:0:0:0:" tvg-name="LIGA DE CAMPEONES 4",LIGA DE CAMPEONES 4
+
+http://root:Ossobuco@79.116.13.61:8001/1:0:1:77D8:40A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30660" tvg-logo="http://root:Ossobuco@79.116.13.61/picon/1_0_1_77C4_40A_1_C00000_0_0_0.png" tvg-id="1:0:1:77C4:40A:1:C00000:0:0:0:" tvg-name="LIGA DE CAMPEONES 5",LIGA DE CAMPEONES 5
+
+http://root:Ossobuco@79.116.13.61:8001/1:0:1:77C4:40A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30222" tvg-logo="http://root:Ossobuco@79.116.13.61/picon/1_0_1_760E_408_1_C00000_0_0_0.png" tvg-id="1:0:1:760E:408:1:C00000:0:0:0:" tvg-name="LIGA DE CAMPEONES 6",LIGA DE CAMPEONES 6
+
+http://root:Ossobuco@79.116.13.61:8001/1:0:1:760E:408:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30209" tvg-logo="http://root:Ossobuco@79.116.13.61/picon/1_0_1_7601_408_1_C00000_0_0_0.png" tvg-id="1:0:1:7601:408:1:C00000:0:0:0:" tvg-name="LIGA DE CAMPEONES 7",LIGA DE CAMPEONES 7
+
+http://root:Ossobuco@79.116.13.61:8001/1:0:1:7601:408:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30218" tvg-logo="http://root:Ossobuco@79.116.13.61/picon/1_0_1_760A_408_1_C00000_0_0_0.png" tvg-id="1:0:1:760A:408:1:C00000:0:0:0:" tvg-name="LIGA DE CAMPEONES 8",LIGA DE CAMPEONES 8
+
+http://root:Ossobuco@79.116.13.61:8001/1:0:1:760A:408:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30212" tvg-logo="http://root:Ossobuco@79.116.13.61/picon/1_0_1_7604_408_1_C00000_0_0_0.png" tvg-id="1:0:1:7604:408:1:C00000:0:0:0:" tvg-name="LIGA DE CAMPEONES 9",LIGA DE CAMPEONES 9
+
+http://root:Ossobuco@79.116.13.61:8001/1:0:1:7604:408:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30216" tvg-logo="http://root:Ossobuco@79.116.13.61/picon/1_0_1_7608_408_1_C00000_0_0_0.png" tvg-id="1:0:1:7608:408:1:C00000:0:0:0:" tvg-name="LIGA DE CAMPEONES 10",LIGA DE CAMPEONES 10
+
+http://root:Ossobuco@79.116.13.61:8001/1:0:1:7608:408:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30221" tvg-logo="http://root:Ossobuco@79.116.13.61/picon/1_0_1_760D_408_1_C00000_0_0_0.png" tvg-id="1:0:1:760D:408:1:C00000:0:0:0:" tvg-name="LIGA DE CAMPEONES 11",LIGA DE CAMPEONES 11
+
+http://root:Ossobuco@79.116.13.61:8001/1:0:1:760D:408:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30223" tvg-logo="http://root:Ossobuco@79.116.13.61/picon/1_0_1_760F_408_1_C00000_0_0_0.png" tvg-id="1:0:1:760F:408:1:C00000:0:0:0:" tvg-name="LIGA DE CAMPEONES 12",LIGA DE CAMPEONES 12
+
+http://root:Ossobuco@79.116.13.61:8001/1:0:1:760F:408:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="30210" tvg-logo="http://root:Ossobuco@79.116.13.61/picon/1_0_1_7602_408_1_C00000_0_0_0.png" tvg-id="1:0:1:7602:408:1:C00000:0:0:0:" tvg-name="LIGA DE CAMPEONES 13",LIGA DE CAMPEONES 13
